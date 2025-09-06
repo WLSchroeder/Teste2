@@ -1,49 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Jarvis\\OneDrive\\Documentos\\Trabalhos\\ConsoleApp5\\",
+  "WorkspaceRootPath": "C:\\Users\\Jarvis\\OneDrive\\Documentos\\Trabalhos\\Projeto99Finalizado\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{28C5AF96-4E0C-11E4-D773-FDBBA90577A7}|ConsoleApp5.csproj|c:\\users\\jarvis\\onedrive\\documentos\\trabalhos\\consoleapp5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28C5AF96-4E0C-11E4-D773-FDBBA90577A7}|ConsoleApp5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28C5AF96-4E0C-11E4-D773-FDBBA90577A7}|ConsoleApp5.csproj|c:\\users\\jarvis\\onedrive\\documentos\\trabalhos\\consoleapp5\\design.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28C5AF96-4E0C-11E4-D773-FDBBA90577A7}|ConsoleApp5.csproj|solutionrelative:design.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28C5AF96-4E0C-11E4-D773-FDBBA90577A7}|ConsoleApp5.csproj|c:\\users\\jarvis\\onedrive\\documentos\\trabalhos\\consoleapp5\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28C5AF96-4E0C-11E4-D773-FDBBA90577A7}|ConsoleApp5.csproj|solutionrelative:pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28C5AF96-4E0C-11E4-D773-FDBBA90577A7}|ConsoleApp5.csproj|c:\\users\\jarvis\\onedrive\\documentos\\trabalhos\\consoleapp5\\garrafas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{28C5AF96-4E0C-11E4-D773-FDBBA90577A7}|ConsoleApp5.csproj|c:\\users\\jarvis\\onedrive\\documentos\\trabalhos\\projeto99finalizado\\garrafas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28C5AF96-4E0C-11E4-D773-FDBBA90577A7}|ConsoleApp5.csproj|solutionrelative:garrafas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28C5AF96-4E0C-11E4-D773-FDBBA90577A7}|ConsoleApp5.csproj|c:\\users\\jarvis\\onedrive\\documentos\\trabalhos\\consoleapp5\\simon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28C5AF96-4E0C-11E4-D773-FDBBA90577A7}|ConsoleApp5.csproj|solutionrelative:simon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28C5AF96-4E0C-11E4-D773-FDBBA90577A7}|ConsoleApp5.csproj|c:\\users\\jarvis\\onedrive\\documentos\\trabalhos\\consoleapp5\\pedrapapeltesoura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{28C5AF96-4E0C-11E4-D773-FDBBA90577A7}|ConsoleApp5.csproj|c:\\users\\jarvis\\onedrive\\documentos\\trabalhos\\projeto99finalizado\\pedrapapeltesoura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28C5AF96-4E0C-11E4-D773-FDBBA90577A7}|ConsoleApp5.csproj|solutionrelative:pedrapapeltesoura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28C5AF96-4E0C-11E4-D773-FDBBA90577A7}|ConsoleApp5.csproj|c:\\users\\jarvis\\onedrive\\documentos\\trabalhos\\consoleapp5\\feira.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{28C5AF96-4E0C-11E4-D773-FDBBA90577A7}|ConsoleApp5.csproj|c:\\users\\jarvis\\onedrive\\documentos\\trabalhos\\projeto99finalizado\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28C5AF96-4E0C-11E4-D773-FDBBA90577A7}|ConsoleApp5.csproj|solutionrelative:pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C5AF96-4E0C-11E4-D773-FDBBA90577A7}|ConsoleApp5.csproj|c:\\users\\jarvis\\onedrive\\documentos\\trabalhos\\projeto99finalizado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28C5AF96-4E0C-11E4-D773-FDBBA90577A7}|ConsoleApp5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C5AF96-4E0C-11E4-D773-FDBBA90577A7}|ConsoleApp5.csproj|c:\\users\\jarvis\\onedrive\\documentos\\trabalhos\\projeto99finalizado\\design.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28C5AF96-4E0C-11E4-D773-FDBBA90577A7}|ConsoleApp5.csproj|solutionrelative:design.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C5AF96-4E0C-11E4-D773-FDBBA90577A7}|ConsoleApp5.csproj|c:\\users\\jarvis\\onedrive\\documentos\\trabalhos\\projeto99finalizado\\simon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28C5AF96-4E0C-11E4-D773-FDBBA90577A7}|ConsoleApp5.csproj|solutionrelative:simon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C5AF96-4E0C-11E4-D773-FDBBA90577A7}|ConsoleApp5.csproj|c:\\users\\jarvis\\onedrive\\documentos\\trabalhos\\projeto99finalizado\\feira.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28C5AF96-4E0C-11E4-D773-FDBBA90577A7}|ConsoleApp5.csproj|solutionrelative:feira.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28C5AF96-4E0C-11E4-D773-FDBBA90577A7}|ConsoleApp5.csproj|c:\\users\\jarvis\\onedrive\\documentos\\trabalhos\\consoleapp5\\seletor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{28C5AF96-4E0C-11E4-D773-FDBBA90577A7}|ConsoleApp5.csproj|c:\\users\\jarvis\\onedrive\\documentos\\trabalhos\\projeto99finalizado\\seletor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28C5AF96-4E0C-11E4-D773-FDBBA90577A7}|ConsoleApp5.csproj|solutionrelative:seletor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28C5AF96-4E0C-11E4-D773-FDBBA90577A7}|ConsoleApp5.csproj|c:\\users\\jarvis\\onedrive\\documentos\\trabalhos\\consoleapp5\\jogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{28C5AF96-4E0C-11E4-D773-FDBBA90577A7}|ConsoleApp5.csproj|c:\\users\\jarvis\\onedrive\\documentos\\trabalhos\\projeto99finalizado\\jogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28C5AF96-4E0C-11E4-D773-FDBBA90577A7}|ConsoleApp5.csproj|solutionrelative:jogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28C5AF96-4E0C-11E4-D773-FDBBA90577A7}|ConsoleApp5.csproj|c:\\users\\jarvis\\onedrive\\documentos\\trabalhos\\consoleapp5\\sudoku.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{28C5AF96-4E0C-11E4-D773-FDBBA90577A7}|ConsoleApp5.csproj|c:\\users\\jarvis\\onedrive\\documentos\\trabalhos\\projeto99finalizado\\sudoku.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28C5AF96-4E0C-11E4-D773-FDBBA90577A7}|ConsoleApp5.csproj|solutionrelative:sudoku.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28C5AF96-4E0C-11E4-D773-FDBBA90577A7}|ConsoleApp5.csproj|c:\\users\\jarvis\\onedrive\\documentos\\trabalhos\\consoleapp5\\tigrinho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{28C5AF96-4E0C-11E4-D773-FDBBA90577A7}|ConsoleApp5.csproj|c:\\users\\jarvis\\onedrive\\documentos\\trabalhos\\projeto99finalizado\\tigrinho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28C5AF96-4E0C-11E4-D773-FDBBA90577A7}|ConsoleApp5.csproj|solutionrelative:tigrinho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -54,17 +54,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Jarvis\\OneDrive\\Documentos\\Trabalhos\\ConsoleApp5\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jarvis\\OneDrive\\Documentos\\Trabalhos\\Projeto99Finalizado\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Jarvis\\OneDrive\\Documentos\\Trabalhos\\ConsoleApp5\\Program.cs",
+              "ToolTip": "C:\\Users\\Jarvis\\OneDrive\\Documentos\\Trabalhos\\Projeto99Finalizado\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-02T14:27:11.119Z",
               "IsPinned": true,
@@ -74,36 +74,36 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Pokemon.cs",
-              "DocumentMoniker": "C:\\Users\\Jarvis\\OneDrive\\Documentos\\Trabalhos\\ConsoleApp5\\Pokemon.cs",
+              "DocumentMoniker": "C:\\Users\\Jarvis\\OneDrive\\Documentos\\Trabalhos\\Projeto99Finalizado\\Pokemon.cs",
               "RelativeDocumentMoniker": "Pokemon.cs",
-              "ToolTip": "C:\\Users\\Jarvis\\OneDrive\\Documentos\\Trabalhos\\ConsoleApp5\\Pokemon.cs",
+              "ToolTip": "C:\\Users\\Jarvis\\OneDrive\\Documentos\\Trabalhos\\Projeto99Finalizado\\Pokemon.cs",
               "RelativeToolTip": "Pokemon.cs",
-              "ViewState": "AgIAAFkAAAAAAAAAAAD4v50AAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAMMAAAAAAAAAAAAiwJ0AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-02T14:39:35.851Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Design.cs",
-              "DocumentMoniker": "C:\\Users\\Jarvis\\OneDrive\\Documentos\\Trabalhos\\ConsoleApp5\\Design.cs",
-              "RelativeDocumentMoniker": "Design.cs",
-              "ToolTip": "C:\\Users\\Jarvis\\OneDrive\\Documentos\\Trabalhos\\ConsoleApp5\\Design.cs",
-              "RelativeToolTip": "Design.cs",
-              "ViewState": "AgIAABwBAAAAAAAAAAAawDMBAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T14:29:05.557Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Design.cs",
+              "DocumentMoniker": "C:\\Users\\Jarvis\\OneDrive\\Documentos\\Trabalhos\\Projeto99Finalizado\\Design.cs",
+              "RelativeDocumentMoniker": "Design.cs",
+              "ToolTip": "C:\\Users\\Jarvis\\OneDrive\\Documentos\\Trabalhos\\Projeto99Finalizado\\Design.cs",
+              "RelativeToolTip": "Design.cs",
+              "ViewState": "AgIAABwBAAAAAAAAAAAawDMBAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T14:29:05.557Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Jogador.cs",
-              "DocumentMoniker": "C:\\Users\\Jarvis\\OneDrive\\Documentos\\Trabalhos\\ConsoleApp5\\Jogador.cs",
+              "DocumentMoniker": "C:\\Users\\Jarvis\\OneDrive\\Documentos\\Trabalhos\\Projeto99Finalizado\\Jogador.cs",
               "RelativeDocumentMoniker": "Jogador.cs",
-              "ToolTip": "C:\\Users\\Jarvis\\OneDrive\\Documentos\\Trabalhos\\ConsoleApp5\\Jogador.cs",
+              "ToolTip": "C:\\Users\\Jarvis\\OneDrive\\Documentos\\Trabalhos\\Projeto99Finalizado\\Jogador.cs",
               "RelativeToolTip": "Jogador.cs",
               "ViewState": "AgIAACMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -118,9 +118,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Sudoku.cs",
-              "DocumentMoniker": "C:\\Users\\Jarvis\\OneDrive\\Documentos\\Trabalhos\\ConsoleApp5\\Sudoku.cs",
+              "DocumentMoniker": "C:\\Users\\Jarvis\\OneDrive\\Documentos\\Trabalhos\\Projeto99Finalizado\\Sudoku.cs",
               "RelativeDocumentMoniker": "Sudoku.cs",
-              "ToolTip": "C:\\Users\\Jarvis\\OneDrive\\Documentos\\Trabalhos\\ConsoleApp5\\Sudoku.cs",
+              "ToolTip": "C:\\Users\\Jarvis\\OneDrive\\Documentos\\Trabalhos\\Projeto99Finalizado\\Sudoku.cs",
               "RelativeToolTip": "Sudoku.cs",
               "ViewState": "AQIAADoAAAAAAAAAAAAgwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -130,9 +130,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "Tigrinho.cs",
-              "DocumentMoniker": "C:\\Users\\Jarvis\\OneDrive\\Documentos\\Trabalhos\\ConsoleApp5\\Tigrinho.cs",
+              "DocumentMoniker": "C:\\Users\\Jarvis\\OneDrive\\Documentos\\Trabalhos\\Projeto99Finalizado\\Tigrinho.cs",
               "RelativeDocumentMoniker": "Tigrinho.cs",
-              "ToolTip": "C:\\Users\\Jarvis\\OneDrive\\Documentos\\Trabalhos\\ConsoleApp5\\Tigrinho.cs",
+              "ToolTip": "C:\\Users\\Jarvis\\OneDrive\\Documentos\\Trabalhos\\Projeto99Finalizado\\Tigrinho.cs",
               "RelativeToolTip": "Tigrinho.cs",
               "ViewState": "AQIAABkAAAAAAAAAAAAgwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -142,9 +142,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Feira.cs",
-              "DocumentMoniker": "C:\\Users\\Jarvis\\OneDrive\\Documentos\\Trabalhos\\ConsoleApp5\\Feira.cs",
+              "DocumentMoniker": "C:\\Users\\Jarvis\\OneDrive\\Documentos\\Trabalhos\\Projeto99Finalizado\\Feira.cs",
               "RelativeDocumentMoniker": "Feira.cs",
-              "ToolTip": "C:\\Users\\Jarvis\\OneDrive\\Documentos\\Trabalhos\\ConsoleApp5\\Feira.cs",
+              "ToolTip": "C:\\Users\\Jarvis\\OneDrive\\Documentos\\Trabalhos\\Projeto99Finalizado\\Feira.cs",
               "RelativeToolTip": "Feira.cs",
               "ViewState": "AgIAAD0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -154,9 +154,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Seletor.cs",
-              "DocumentMoniker": "C:\\Users\\Jarvis\\OneDrive\\Documentos\\Trabalhos\\ConsoleApp5\\Seletor.cs",
+              "DocumentMoniker": "C:\\Users\\Jarvis\\OneDrive\\Documentos\\Trabalhos\\Projeto99Finalizado\\Seletor.cs",
               "RelativeDocumentMoniker": "Seletor.cs",
-              "ToolTip": "C:\\Users\\Jarvis\\OneDrive\\Documentos\\Trabalhos\\ConsoleApp5\\Seletor.cs",
+              "ToolTip": "C:\\Users\\Jarvis\\OneDrive\\Documentos\\Trabalhos\\Projeto99Finalizado\\Seletor.cs",
               "RelativeToolTip": "Seletor.cs",
               "ViewState": "AgIAAHkAAAAAAAAAAAAgwIkAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -164,23 +164,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Garrafas.cs",
-              "DocumentMoniker": "C:\\Users\\Jarvis\\OneDrive\\Documentos\\Trabalhos\\ConsoleApp5\\Garrafas.cs",
+              "DocumentMoniker": "C:\\Users\\Jarvis\\OneDrive\\Documentos\\Trabalhos\\Projeto99Finalizado\\Garrafas.cs",
               "RelativeDocumentMoniker": "Garrafas.cs",
-              "ToolTip": "C:\\Users\\Jarvis\\OneDrive\\Documentos\\Trabalhos\\ConsoleApp5\\Garrafas.cs",
+              "ToolTip": "C:\\Users\\Jarvis\\OneDrive\\Documentos\\Trabalhos\\Projeto99Finalizado\\Garrafas.cs",
               "RelativeToolTip": "Garrafas.cs",
-              "ViewState": "AgIAAN0AAAAAAAAAAAAlwAMBAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAN0AAAAAAAAAAAAlwO8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T14:32:15.689Z"
+              "WhenOpened": "2025-09-02T14:32:15.689Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Simon.cs",
-              "DocumentMoniker": "C:\\Users\\Jarvis\\OneDrive\\Documentos\\Trabalhos\\ConsoleApp5\\Simon.cs",
+              "DocumentMoniker": "C:\\Users\\Jarvis\\OneDrive\\Documentos\\Trabalhos\\Projeto99Finalizado\\Simon.cs",
               "RelativeDocumentMoniker": "Simon.cs",
-              "ToolTip": "C:\\Users\\Jarvis\\OneDrive\\Documentos\\Trabalhos\\ConsoleApp5\\Simon.cs",
+              "ToolTip": "C:\\Users\\Jarvis\\OneDrive\\Documentos\\Trabalhos\\Projeto99Finalizado\\Simon.cs",
               "RelativeToolTip": "Simon.cs",
               "ViewState": "AgIAABoAAAAAAAAAAAAAACgAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -188,15 +189,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "PedraPapelTesoura.cs",
-              "DocumentMoniker": "C:\\Users\\Jarvis\\OneDrive\\Documentos\\Trabalhos\\ConsoleApp5\\PedraPapelTesoura.cs",
+              "DocumentMoniker": "C:\\Users\\Jarvis\\OneDrive\\Documentos\\Trabalhos\\Projeto99Finalizado\\PedraPapelTesoura.cs",
               "RelativeDocumentMoniker": "PedraPapelTesoura.cs",
-              "ToolTip": "C:\\Users\\Jarvis\\OneDrive\\Documentos\\Trabalhos\\ConsoleApp5\\PedraPapelTesoura.cs",
+              "ToolTip": "C:\\Users\\Jarvis\\OneDrive\\Documentos\\Trabalhos\\Projeto99Finalizado\\PedraPapelTesoura.cs",
               "RelativeToolTip": "PedraPapelTesoura.cs",
-              "ViewState": "AgIAAGoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T14:28:49.707Z"
+              "WhenOpened": "2025-09-02T14:28:49.707Z",
+              "EditorCaption": ""
             }
           ]
         }

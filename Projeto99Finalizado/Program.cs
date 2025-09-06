@@ -14,6 +14,7 @@ int vida = 3;
 char Dificuldade = 'a';
 string Nick = "slça";
 bool Jogo = true, dificul = false, batalha = false;
+Console.Write("Favela venceu 2");
 Design.TelaInicial();
 Design.Loading();
 Console.Clear();
